@@ -1,6 +1,6 @@
 # Urban Chowk - Culinary Collective
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/qasimbilalstack/generated-app-20250930-060957)
 
 > A visually stunning digital menu platform for the Urban Chowk food court, featuring stall discovery and easy menu management.
 
@@ -90,4 +90,4 @@ This application is designed to be deployed on the Cloudflare network.
 
     Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-    [cloudflarebutton]
+    [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/qasimbilalstack/generated-app-20250930-060957)
